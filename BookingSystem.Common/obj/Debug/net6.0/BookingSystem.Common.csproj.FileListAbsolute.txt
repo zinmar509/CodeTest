@@ -1,0 +1,12 @@
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\bin\Debug\net6.0\BookingSystem.Common.deps.json
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\bin\Debug\net6.0\BookingSystem.Common.dll
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\bin\Debug\net6.0\BookingSystem.Common.pdb
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\BookingSystem.Common.csproj.AssemblyReference.cache
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\BookingSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\BookingSystem.Common.AssemblyInfoInputs.cache
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\BookingSystem.Common.AssemblyInfo.cs
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\BookingSystem.Common.csproj.CoreCompileInputs.cache
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\BookingSystem.Common.dll
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\refint\BookingSystem.Common.dll
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\BookingSystem.Common.pdb
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.Common\obj\Debug\net6.0\ref\BookingSystem.Common.dll

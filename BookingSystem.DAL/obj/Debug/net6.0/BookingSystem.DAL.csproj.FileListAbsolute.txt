@@ -1,0 +1,15 @@
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\bin\Debug\net6.0\BookingSystem.DAL.deps.json
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\bin\Debug\net6.0\BookingSystem.DAL.dll
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\bin\Debug\net6.0\BookingSystem.DAL.pdb
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\bin\Debug\net6.0\BookingSystem.Common.dll
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\bin\Debug\net6.0\BookingSystem.Common.pdb
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.csproj.AssemblyReference.cache
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.AssemblyInfoInputs.cache
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.AssemblyInfo.cs
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.csproj.CoreCompileInputs.cache
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.csproj.CopyComplete
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.dll
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\refint\BookingSystem.DAL.dll
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\BookingSystem.DAL.pdb
+D:\ZMK\CodeFolder\mycode_test\CodeTest\BookingSystem.DAL\obj\Debug\net6.0\ref\BookingSystem.DAL.dll

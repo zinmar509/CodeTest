@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnRj2H3A5nagIitz7lpiR0yl8CP+zwvR9rkJ7PvPBlz7FpRQA2GtcWVhdJWlBAR3hY0ucA6IMt4Xx2qqxKiJuA==",
+  "success": true,
+  "projectFilePath": "D:\\ZMK\\CodeFolder\\mycode_test\\CodeTest\\BookingSystem.Common\\BookingSystem.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.0\\microsoft.extensions.dependencyinjection.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencymodel\\8.0.2\\microsoft.extensions.dependencymodel.8.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\scrutor\\5.0.2\\scrutor.5.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
